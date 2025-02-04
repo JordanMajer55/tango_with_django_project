@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0c22a104-27e1-4f0a-a20d-62aa3b1de578" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/populate_rango.py" beforeDir="false" afterPath="$PROJECT_DIR$/populate_rango.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rango/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/rango/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +222,7 @@
       <workItem from="1738144923978" duration="5859000" />
       <workItem from="1738231218425" duration="5194000" />
       <workItem from="1738665961470" duration="2386000" />
-      <workItem from="1738676528727" duration="1622000" />
+      <workItem from="1738676528727" duration="6711000" />
     </task>
     <servers />
   </component>
